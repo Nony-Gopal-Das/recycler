@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="coumtry_desc">
+        <item>Asutralia Is a Beautifull </item>
+        <item>Bangladesh is a beautifull </item>
+        <item>Bhutan Is a Beautifull </item>
+        <item>Canada Is a Beautifull </item>
+        <item>Chain Is a Beautifull </item>
+        <item>Denmark Is a Beautifull </item>
+        <item>England is a beautifull </item>
+        <item>India is a beautifull </item>
+    </string-array>
+
+    <string-array name="Country_Names">
+        <item>Asutralia </item>
+        <item>Bangladesh </item>
+        <item>Bhutan </item>
+        <item>Canada </item>
+        <item>Chain </item>
+        <item>Denmark </item>
+        <item>England </item>
+        <item>India </item>
+
+
+
+    </string-array>
+
+</resources>
